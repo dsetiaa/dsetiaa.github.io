@@ -14,7 +14,7 @@ permalink: /
 
     <div class="about-image-container">
         <div class="about-image">
-            <img src="/assets/images/me_pxl.png" alt="d" class="img-responsive">
+            <img src="/assets/images/me_pxl_1.png" alt="d" class="img-responsive">
         </div>
     </div>
   </div>
