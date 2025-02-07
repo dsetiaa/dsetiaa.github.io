@@ -8,7 +8,7 @@ permalink: /
   <div class="about-content">
     <p>Hi I'm Divyanshu. I'm a founding engineer at Tensorfuse, a YC-backed startup building infrastructure for scalable ML. I am primarily a cloud engineer with expertise in deploying with AWS Cloudformation. I also do some backend engineering.</p>
 
-    <p>I am a computer science graduate from IIT Roorkee. I have some experience in developing mobile apps using flutter and have also some knowledge in classic cryptography</p>
+    <p>I am a computer science graduate from IIT Roorkee. I have some experience in developing mobile apps using flutter and also have some knowledge in classic cryptography</p>
 
     <p>In my free time I love solving puzzles, playing video games and watching the shows that my friends recommend to me.</p>
 
